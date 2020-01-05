@@ -1,3 +1,8 @@
+This website template was created by HTML5 UP. 
+
+Thank You HTML5 UP for letting me use.
+
+
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -9,8 +14,7 @@ set up to smoothly transition to secondary landing pages (for which a separate p
 template is provided), and includes a number of neat effects (check out the menu!),
 extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+
 
 (* = not included)
 
