@@ -3950,3 +3950,5 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+		#locator{position: absolute; visibility: visible; left: 1600px; top: 100px; height: 100px; width: 150px; z-index: 200;}
